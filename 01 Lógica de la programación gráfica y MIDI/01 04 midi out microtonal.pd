@@ -1,8 +1,0 @@
-#N canvas 827 239 527 327 12;
-#X obj 367 290 bendout;
-#X floatatom 367 264 5 0 0 0 - - - 0;
-#X text 361 177 [bendout] toma valores entre -8192 to 8191 para controlar la "pitch-wheel" o el pitch-bend del canal seleccionado. Este controlador con una resolución superior al resto \, puede ser utilizado en combinación con noteout para conseguir afinaciones no temperadas., f 48;
-#X obj 4 4 cnv 15 694 37 empty empty MIDI\ microtonal\ con\ notas\ y\ pitch-bend 5 20 0 24 #696969 #ffffff 0;
-#X obj 4 46 cnv 15 512 24 empty empty Creación\ y\ procesamiento\ de\ sonido\ con\ Pd 5 11 0 16 #1e1e1e #ffffff 0;
-#X obj 523 46 cnv 15 175 24 empty empty angelfaraldo@gmail.com 5 11 0 16 #c8c8c8 #000000 0;
-#X connect 1 0 0 0 empty;

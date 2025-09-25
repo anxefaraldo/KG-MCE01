@@ -1,4 +1,0 @@
-#N canvas 827 239 527 327 12;
-#X obj 4 4 cnv 15 694 37 empty empty Título 5 20 0 24 #696969 #ffffff 0;
-#X obj 4 46 cnv 15 512 24 empty empty Creación\ y\ procesamiento\ de\ sonido\ con\ Pd 5 11 0 16 #1e1e1e #ffffff 0;
-#X obj 523 46 cnv 15 175 24 empty empty angelfaraldo@gmail.com 5 11 0 16 #c8c8c8 #000000 0;
