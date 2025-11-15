@@ -1,0 +1,7 @@
+#N canvas 827 239 527 327 12;
+#X obj 11 80 inlet;
+#X obj 11 160 outlet;
+#X text 35 117 OPERACION A DETERMINAR ????;
+#X text 11 29 esta es otra abstraccion \, que podemos llamar tantas veces como queramos... en este caso \, forma parte de las voces clonadas....;
+#X connect 0 0 1 0;
+#X coords 0 0 1 1 393 177 0;

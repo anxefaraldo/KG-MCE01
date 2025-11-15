@@ -1,0 +1,18 @@
+#N canvas 780 215 574 399 12;
+#X msg 25 193 menusave;
+#X obj 32 47 metro 1;
+#X obj 32 73 f 0;
+#X obj 62 73 + 1;
+#X msg 32 98 set \$1;
+#X msg 32 125 995;
+#X obj 32 23 tgl 19 0 empty empty empty 0 -10 0 12 #fcfcfc #000000 #000000 0 1;
+#X text 110 187 click en menusave para guardar el patch con todo su contenido, f 31;
+#X text 29 257 la dirección del send [s] ha de tener la siguiente sintaxis: [s pd-nombre_del_patch.pd];
+#X obj 25 225 s pd-savepatch.pd;
+#X connect 0 0 9 0;
+#X connect 1 0 2 0;
+#X connect 2 0 3 0;
+#X connect 2 0 4 0;
+#X connect 3 0 2 1;
+#X connect 4 0 5 0;
+#X connect 6 0 1 0;

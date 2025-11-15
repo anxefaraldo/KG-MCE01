@@ -1,0 +1,8 @@
+#N canvas 827 239 527 327 12;
+#X text 11 29 esto podría ser una abstracción que simplifique alguna tarea.;
+#X obj 11 62 inlet;
+#X obj 11 142 outlet;
+#X text 49 101 OPERACION A DETERMINAR ????;
+#X text 272 71 El recuadro rojo representa la parte del patch visible desde el patch madre. Para seleccionarlo \, vete a 'Properties' (boton derecho en canvas) \, y selecciona 'Is Graph' como 'Yes'., f 36;
+#X connect 1 0 2 0;
+#X coords 0 0 1 1 550 183 1 0 0;
