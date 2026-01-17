@@ -1,4 +1,4 @@
-#N canvas 414 23 1303 1107 12;
+#N canvas 414 23 720 550 12;
 #X floatatom 16 238 10 0 0 0 - - - 0;
 #X floatatom 42 473 14 0 0 0 - - - 12;
 #X obj 34 324 samplerate~;
